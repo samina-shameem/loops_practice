@@ -1,0 +1,34 @@
+/*CSS file:styles.css*/
+
+body{
+    font-family: Arial, sans-serif;
+    margin:20px;
+    background-color: #f4f6f9;
+    color:#a36ddd;
+}
+
+.array-list{
+    list-style: none;
+    padding: 0;
+}
+
+.array-list li{
+    padding: 5px;
+    background: #dfe6e9;
+    margin-bottom:5px;
+    border-radius: 4px;
+}
+
+.object-list{
+    list-style: none;
+    padding: 0;
+}
+
+.object-list li{
+    padding: 5px;
+    background: #b2bec3;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+
+
